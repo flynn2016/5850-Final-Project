@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tiles/tile_1.png</file>
+        <file>tiles/tile_2.png</file>
+        <file>tiles/tile_3.png</file>
+        <file>tiles/tile_4.png</file>
+        <file>tiles/tile_5.png</file>
+        <file>tiles/tile_6.png</file>
+        <file>tiles/tile_7.png</file>
+        <file>tiles/tile_8.png</file>
+        <file>tiles/tile_9.png</file>
+        <file>tiles/tile_10.png</file>
+        <file>tiles/tile_11.png</file>
+        <file>tiles/tile_12.png</file>
+        <file>tiles/tile_13.png</file>
+        <file>tiles/tile_14.png</file>
+        <file>tiles/tile_15.png</file>
+        <file>tiles/tile_16.png</file>
+        <file>tiles/tile_17.png</file>
+        <file>tiles/tile_18.png</file>
+        <file>tiles/tile_19.png</file>
+        <file>tiles/tile_20.png</file>
+        <file>tiles/tile_21.png</file>
+        <file>tiles/tile_22.png</file>
+        <file>tiles/tile_23.png</file>
+        <file>tiles/tile_24.png</file>
+        <file>tiles/tile_25.png</file>
+        <file>tiles/tile_26.png</file>
+        <file>tiles/tile_27.png</file>
+        <file>tiles/tile_28.png</file>
+        <file>tiles/tile_29.png</file>
+        <file>tiles/tile_empty.png</file>
+    </qresource>
+</RCC>
